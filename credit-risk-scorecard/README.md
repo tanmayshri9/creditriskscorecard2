@@ -136,12 +136,14 @@ Each module also runs standalone (e.g. `python src/woe_iv.py`) to print its own 
 
 ---
 ## Techniques & stack
+
 **Statistics / ML** — logistic regression, gradient boosting (XGBoost), random forests, Weight of
 Evidence, Information Value, Variance Inflation Factors, KS, Gini, AUC-ROC, calibration, PSI, CSI.
 **Domain** — application scorecards, bad-rate definition, performance/observation windows, scorecard
 scaling (PDO / base odds), reason codes, reject-inference awareness, swap-set analysis.
 **Governance** — SR 11-7 model risk management, fair-lending / adverse-action, champion–challenger,
 ongoing monitoring thresholds.
+
 **Tools** — Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib
 ---
 
